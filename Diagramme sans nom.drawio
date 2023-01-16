@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T10:33:24.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="M4o-wYXetQYJxxYXDXm6" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T10:36:20.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LAdJUsjVBGEdGwXCjE5m" version="20.8.5" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -22,52 +22,52 @@
         <mxCell id="100" value="Tâche 6" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="297.0000000000006" y="250.00000000000057" width="319.9999999999994" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Task Name" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="Nom de la Tâche" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="297" y="130" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-289" value="Task 6" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-289" value="Tâche 7" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="297.0000000000006" y="270.00000000000057" width="319.9999999999994" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-290" value="Task 6" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-290" value="Tâche 8" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="297.0000000000006" y="290.00000000000057" width="319.9999999999994" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-291" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="150" width="840" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Jan" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="4" value="Janvier" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-278" value="Feb" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-278" value="Février" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="687" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-279" value="Mar" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-279" value="Mars" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="757" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-280" value="Apr" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-280" value="Avril" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-281" value="May" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-281" value="Mai" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="897" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-282" value="June" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-282" value="Juin" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="967" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-283" value="July" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-283" value="Juillet" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1037" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-284" value="Aug" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-284" value="Août" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1107" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-285" value="Sept" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-285" value="Septembre" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1177" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-286" value="Oct" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-286" value="Octobre" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1247" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-287" value="Nov" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-287" value="Novembre" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1317" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67c90442a009f359-288" value="Dec" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="67c90442a009f359-288" value="Décembre" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1387" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-292" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
